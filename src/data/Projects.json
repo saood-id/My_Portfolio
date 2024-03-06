@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Portfolio",
+    "imageSrc": "projects/project.png",
+    "description": "I have created my portfolio using React",
+    "skills": ["React", "HTML", "CSS", "JS"],
+    
+    "source": "https://www.github.com"
+  },
+    {
+      "title": "Spotify Data Analysis",
+      "imageSrc": "projects/project.png",
+      "description": "this project is made to analyse the data of songs from 1922-2019",
+      "skills": ["numpy", "pandas", "seaborn"],
+      
+      "source": "https://www.github.com"
+    },
+    {
+      "title": "Customer segmentaion",
+      "imageSrc": "projects/project.png",
+      "description": "This is a project made to learn the latest languages by building an app.",
+      "skills": ["numpy", "Pandas", "Matplotlib","Seaborn"],
+      
+      "source": "https://github.com/saood-id/customer-Segmentation"
+    }
+  ]
